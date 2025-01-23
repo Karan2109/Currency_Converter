@@ -1,4 +1,8 @@
 const BASE_URL = "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_ZUZxs0XRWN7Blck55cWYbFNuTLn9dxUfZmCoJR4W";
+// const BASE_URL = "https://v6.exchangerate-api.com/v6/0dc675bff8b15b229b9818c4/latest/USD";
+// const BASE_URL = "https://api.apilayer.com/exchangerates_data/convert?to="
+// const BASE_URL = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
